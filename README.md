@@ -1,4 +1,7 @@
-# Hello World! 🌍 I'm Finn
+# Hello World! I'm Finn
+
+💻 Learning C#, PHP, HTML/CSS
+📬 Reach me at: [fathin](mailto:fathinjamaluddin666@gmail.com)
 
 <!--
 **zuckclaw/zuckclaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
