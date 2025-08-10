@@ -1,7 +1,5 @@
 # Hello World! 😁😁 [][][][].
 
-🎓 **Student & Tech Enthusiast** | 🛡 **Cyber Security Learner**
-
 <!--
 **zuckclaw/zuckclaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
