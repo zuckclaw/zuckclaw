@@ -3,6 +3,7 @@
 ![Finn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuckclaw&show_icons=true&theme=tokyonight)<br>
 ![Profile views](https://komarev.com/ghpvc/?username=zuckclaw&color=blue)
 -
+Digital Forensics Analyst
 
 
 <!--
