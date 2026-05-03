@@ -1,4 +1,5 @@
-<h1>h3lothere</h1>
+<h1>h3lothere...</h1>
+If you want to know more about me, this github will tell you everything. But curently im too lazy to manage this github. So just do simple OSINT and you will know all about me.<br>
 learner | CyberSec Enthusiast.<br>
 Newbie CTF player 
 
